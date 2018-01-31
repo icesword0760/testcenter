@@ -1,6 +1,10 @@
-### 这里是testcenter前端部分
+### 这里是testcenter后端部分
 #### 项目介绍
-本项目后端用Django编写，使用HttpRunner作为执行框架，基本继承了HttpRunner的功能并加以web化。 
+本项目后端用Django编写，使用HttpRunner作为执行框架，基本继承了HttpRunner的功能并加以web化。   
+支持自由扩展方法；  
+支持从上个接口的返回值提取数据保存以供其他接口使用；   
+支持自定义参数；  
+等等
 
 #### 使用说明
 1.本项目需要py环境支持,MySql环境支持  
